@@ -1,2 +1,2 @@
 # Semáforo
-Semáforo de trânsito utilizando Arduino
+Semáforo de trânsito utilizando Arduino UNO
