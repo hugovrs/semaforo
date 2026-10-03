@@ -1,2 +1,2 @@
-# Semaforo
+# Semáforo
 Semáforo utilizando Arduino
